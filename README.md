@@ -13,4 +13,4 @@ This file contains the HTML code involved in the construction of the webpage, in
 
 ## result
 
-![result](teapot/web.png)
+![alt text](https://github.com/paulotozi/teapot/web.png?raw=true)
