@@ -13,4 +13,4 @@ This file contains the HTML code involved in the construction of the webpage, in
 
 ## result
 
-![webpage](teapot/web.png)
+![result](teapot/web.png)
