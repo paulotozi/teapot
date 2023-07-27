@@ -9,7 +9,7 @@ This file has the script in Javascript, which creates the elements in the HTML f
 
 ## index.html
 
-This file contains the HTML code involved in the construction of the webpage, including "<font>" that formats the text in a specific font and "<body>" that contains the phrase.
+This file contains the HTML code involved in the construction of the webpage, including "font" that formats the text in a specific font and "body" that contains the phrase.
 
 ## result
 
